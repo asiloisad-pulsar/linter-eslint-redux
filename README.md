@@ -14,7 +14,7 @@ ESLint linter provider with bundled v8 and v10 support. Uses project-installed E
 
 ## Installation
 
-To install `linter-eslint-redux` search for [linter-eslint-redux](https://web.pulsar-edit.dev/packages/linter-eslint-redux) in the Install pane of the Pulsar settings or run `ppm install linter-eslint-redux`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-eslint-redux` to install a package directly from the GitHub repository.
+To install `linter-eslint-redux` search for [linter-eslint-redux](https://web.pulsar-edit.dev/packages/linter-eslint-redux) in the Install pane of the Pulsar settings or run `ppm install linter-eslint-redux`. Alternatively, you can run `ppm install asiloisad-pulsar/linter-eslint-redux` to install a package directly from the GitHub repository.
 
 ## Commands
 
