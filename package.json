@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/asiloisad/pulsar-linter-eslint-redux.git"
+    "url": "https://github.com/asiloisad-pulsar/linter-eslint-redux.git"
   },
   "configSchema": {
     "useBuiltin": {
