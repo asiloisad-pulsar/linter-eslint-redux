@@ -2,6 +2,9 @@
 
 ESLint linter provider with bundled v8 and v10 support. Uses project-installed ESLint when available, falls back to bundled version.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [ide-eslint](https://github.com/lumine-code/ide-eslint).
+
 ## Features
 
 - **Project ESLint first**: uses ESLint from your project's `node_modules` if installed.
